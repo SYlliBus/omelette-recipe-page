@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(250, 222, 227);
+}
+#content {
+    width: 500px;
+    margin: 100px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.omlette-image{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.time {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 20px;
+    background-color: rgb(250, 222, 227);
+    border-radius: 10px;
+    padding: 10px 45px;
+}
+.simple-heading {
+    font-size: 20px;
+    color: purple;
+    margin-bottom: 30px;
+    margin-left: -40px;
+    font-weight: bold;
+}
+h2{
+    margin-left: -18px;
+    color: rgb(197, 56, 5);
+    font-weight: bold;
+}
+p{
+    margin-left: 18px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 18px;
+}
+tr{
+    border-bottom: 1px solid #ddd;
+}
+.nutrition-value{
+    font-weight: bold;
+    margin-left: 10px;
+    color: rgb(197, 56, 5);
+}
+.nutri-info{
+    margin-left: 18px;
+}
