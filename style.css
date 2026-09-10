@@ -30,6 +30,9 @@ body{
     margin-left: -40px;
     font-weight: bold;
 }
+h1{
+    margin-left: 15px;
+}
 h2{
     margin-left: -18px;
     color: rgb(197, 56, 5);
